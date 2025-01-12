@@ -11,10 +11,10 @@
   <a href="mailto:deeppatel9171@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
-  <a href="https://github.com/Deeppatel91/Deeppatel91/blob/main/Resume.md">
+  <a href="https://github.com/Deeppatel91/Deeppatel91/blob/main/Deep-Patel.Resume%2C%2C%2C%2C..pdf">
     <img src="https://img.shields.io/badge/Preview-Resume-FF6C37?style=for-the-badge&logo=github&logoColor=white" alt="Preview Resume">
   </a>
-  <a href="https://github.com/Deeppatel91/Deeppatel91/raw/main/Deep-Patel.Resume.docx">
+  <a href="https://github.com/Deeppatel91/Deeppatel91/blob/main/Deep-Patel.Resume%2C%2C%2C%2C..pdf">
     <img src="https://img.shields.io/badge/Download-Resume-005571?style=for-the-badge&logo=github&logoColor=white" alt="Download Resume">
   </a>
 </div>
@@ -56,8 +56,8 @@ I’m open to collaborations, internships, and networking opportunities! Feel fr
 ---
 
 ## 📄 **Resume**  
-- [Preview Resume](https://github.com/Deeppatel91/Deeppatel91/blob/main/Resume.md)  
-- [Download Resume](https://github.com/Deeppatel91/Deeppatel91/raw/main/Deep-Patel.Resume.docx)  
+- [Preview Resume](https://github.com/Deeppatel91/Deeppatel91/blob/main/Deep-Patel.Resume%2C%2C%2C%2C..pdf)  
+- [Download Resume](https://github.com/Deeppatel91/Deeppatel91/blob/main/Deep-Patel.Resume%2C%2C%2C%2C..pdf)  
 
 ---
 
