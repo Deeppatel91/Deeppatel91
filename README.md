@@ -1,4 +1,4 @@
-# Hey There! I'm Deep Patel 👋  
+# Hey There! I'm Deep Patel  
 
 <div align="center" id="header">
 
