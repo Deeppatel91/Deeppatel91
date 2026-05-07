@@ -14,7 +14,7 @@
   <a href="https://github.com/Deeppatel91/Deeppatel91/blob/main/reSUme_DEEP_PATEL.pdf">
     <img src="https://img.shields.io/badge/Download-Resume-005571?style=for-the-badge&logo=github&logoColor=white" alt="Download Resume">
   </a>
-  <a href="[[[https://www.deeppatel.site](https://deeppatel91.vercel.app/](https://deeppatel91.vercel.app/)](https://deeppatel91.vercel.app/)">
+  <a href="https://deeppatel91.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </div>
